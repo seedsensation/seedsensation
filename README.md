@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mercury :+)
 - 👀 Studying Computer Science at Nottingham Trent University
 - 🧑‍💻 Committee Member for [NTU DevSoc](https://devsoc.co.uk)
-- ♟️ President of [NTU Tabletop Society](https://www.trentstudents.org/groups/tabletop)
+- ♟️ Secretary of [NTU Tabletop Society](https://www.trentstudents.org/groups/tabletop)
 - 📫 How to reach me? m@rcury.com :)
 
 <!---
